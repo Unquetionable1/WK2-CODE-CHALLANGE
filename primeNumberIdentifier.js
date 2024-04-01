@@ -13,4 +13,5 @@ const primes = array.filter(
         
     }
 })
+//shows the output on the console
 console.log(primes)
